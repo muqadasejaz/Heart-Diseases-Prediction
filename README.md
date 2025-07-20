@@ -99,9 +99,14 @@ A web-based interface is provided via Flask where users can:
 - Get instant prediction results
 - View results in a user-friendly format
 
-<img width="939" height="618" alt="predictions" src="https://github.com/user-attachments/assets/5fced8dc-33f9-4320-a7b0-76a4b0397e71" />
+- Diseases:
 
-<img width="1001" height="617" alt="prediction" src="https://github.com/user-attachments/assets/bd934406-2c53-47b6-a685-313488dbdce8" />
+  <img width="1054" height="546" alt="heart_diseases" src="https://github.com/user-attachments/assets/ad9b9188-d934-45e3-9355-248271220a36" />
+
+- Not a Diseases:
+
+<img width="1063" height="584" alt="not_heart_diseases" src="https://github.com/user-attachments/assets/eed30947-3798-4d4f-8bbc-3b3c024128b3" />
+
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
